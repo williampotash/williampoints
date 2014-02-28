@@ -1,5 +1,5 @@
 development:
-  adapter: 
+  adapter: postgresql
   database: williampoints_development
   pool: 5
   timeout: 5000
